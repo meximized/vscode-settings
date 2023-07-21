@@ -3,6 +3,7 @@
   "displayName": "ViT Python",
   "description": "A pack of Visual Studio Code extensions for a quick-start python development",
   "version": "0.0.1",
+  "repository": "http://172.30.65.6/data-platform/ml/projects/features/vscode-settings",
   "publisher": "meximized",
   "engines": {
     "vscode": "^1.70.0"
