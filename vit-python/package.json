@@ -1,15 +1,23 @@
 {
   "name": "vit-python",
   "displayName": "ViT Python",
-  "description": "A pack of Visual Studio Code extensions for a quick-start python development",
+  "description": "A pack of extensions for a quick-start python development.",
   "version": "0.0.1",
-  "repository": "http://172.30.65.6/data-platform/ml/projects/features/vscode-settings",
+  "icon": "images/vit-python-logo.png",
+  "galleryBanner": {
+    "color": "#264f36",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/meximized/vscode-settings.git"
+  },
   "publisher": "meximized",
   "engines": {
     "vscode": "^1.70.0"
   },
   "categories": [
-    "Extension Packs"
+    "Extension Packs", "Data Science", "Machine Learning"
   ],
   "extensionPack": [ 
     "njpwerner.autodocstring",

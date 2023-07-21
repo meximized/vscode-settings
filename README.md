@@ -1,2 +1,1 @@
-https://learn.microsoft.com/en-us/windows/dev-environment/javascript/nodejs-on-wsl
-https://www.youtube.com/watch?v=DvNXEBxO3YQ
+This repository contains a VScode extension pack for python development and a configuration file you can use to make VScode look similar to Pycharm (settings.json)
