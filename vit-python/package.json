@@ -1,0 +1,32 @@
+{
+  "name": "vit-python",
+  "displayName": "ViT Python",
+  "description": "A pack of Visual Studio Code extensions for a quick-start python development",
+  "version": "0.0.1",
+  "publisher": "meximized",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "njpwerner.autodocstring",
+    "streetsidesoftware.code-spell-checker",
+    "streetsidesoftware.code-spell-checker-russian",
+    "rokoroku.vscode-theme-darcula",
+    "mkxml.vscode-filesize",
+    "codezombiech.gitignore",
+    "ms-toolsai.jupyter",
+    "ms-toolsai.vscode-jupyter-cell-tags",
+    "ms-toolsai.jupyter-keymap",
+    "ms-toolsai.jupyter-renderers",
+    "ms-toolsai.vscode-jupyter-slideshow",
+    "magicstack.MagicPython",
+    "zaaack.markdown-editor",
+    "PKief.material-icon-theme",
+    "ms-python.python",
+    "KevinRose.vsc-python-indent",
+    "redhat.vscode-yaml"
+  ]
+}
