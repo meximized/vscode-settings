@@ -2,7 +2,7 @@
   "name": "vit-python",
   "displayName": "ViT Python",
   "description": "A pack of extensions for a quick-start python development.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "icon": "images/vit-python-logo.png",
   "galleryBanner": {
     "color": "#264f36",
@@ -14,7 +14,7 @@
   },
   "publisher": "meximized",
   "engines": {
-    "vscode": "^1.70.0"
+    "vscode": "*"
   },
   "categories": [
     "Extension Packs", "Data Science", "Machine Learning"
@@ -35,7 +35,6 @@
     "zaaack.markdown-editor",
     "PKief.material-icon-theme",
     "ms-python.python",
-    "KevinRose.vsc-python-indent",
-    "redhat.vscode-yaml"
+    "KevinRose.vsc-python-indent"
   ]
 }
